@@ -1,0 +1,23 @@
+
+.selected{
+    font-weight: bold;
+}
+
+.table td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.table thead{
+    font-weight: bold;
+}
+
+.tableWrapper{
+    margin: 10px auto;
+    width: 600px;
+}
+
+.tableWrapper table{
+    width: 600px;
+}
